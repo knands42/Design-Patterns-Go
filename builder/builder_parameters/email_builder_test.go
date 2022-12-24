@@ -1,8 +1,8 @@
 package email_builder
 
 import (
-	"patterns/builder/email_builder_parameters/email_builder"
-	"patterns/builder/email_builder_parameters/email_sender"
+	"patterns/builder/builder_parameters/email_builder"
+	"patterns/builder/builder_parameters/email_sender"
 	"testing"
 )
 

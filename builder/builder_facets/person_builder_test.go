@@ -1,7 +1,7 @@
 package person_builder_facets
 
 import (
-	"patterns/builder/person_builder_facets/person_builder"
+	"patterns/builder/builder_facets/person_builder"
 	"testing"
 )
 

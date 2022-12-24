@@ -1,7 +1,7 @@
 package person_builder_functional
 
 import (
-	"patterns/builder/person_builder_functional/person_builder"
+	"patterns/builder/builder_functional/person_builder"
 	"testing"
 )
 

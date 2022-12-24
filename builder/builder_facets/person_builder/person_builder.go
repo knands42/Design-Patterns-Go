@@ -1,6 +1,6 @@
 package person_builder
 
-import "patterns/builder/person_builder_facets/entity"
+import "patterns/builder/builder_facets/entity"
 
 type PersonBuilder struct {
 	person *entity.Person

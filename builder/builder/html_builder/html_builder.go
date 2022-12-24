@@ -1,6 +1,6 @@
 package html_builder
 
-import "patterns/builder/html_example/html_element"
+import "patterns/builder/builder/html_element"
 
 type HtmlBuilder struct {
 	rootName string

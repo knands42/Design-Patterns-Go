@@ -1,6 +1,6 @@
 package person_builder
 
-import "patterns/builder/person_builder_functional/entity"
+import "patterns/builder/builder_functional/entity"
 
 type personMod func(*entity.Person)
 type PersonBuilder struct {

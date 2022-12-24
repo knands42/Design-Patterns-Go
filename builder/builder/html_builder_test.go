@@ -2,7 +2,7 @@ package html_example
 
 import (
 	"fmt"
-	"patterns/builder/html_example/html_builder"
+	"patterns/builder/builder/html_builder"
 	"testing"
 )
 

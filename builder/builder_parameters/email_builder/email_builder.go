@@ -1,7 +1,7 @@
 package email_builder
 
 import (
-	"patterns/builder/email_builder_parameters/entity"
+	"patterns/builder/builder_parameters/entity"
 	"strings"
 )
 

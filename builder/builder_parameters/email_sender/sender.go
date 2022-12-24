@@ -1,8 +1,8 @@
 package email_sender
 
 import (
-	"patterns/builder/email_builder_parameters/email_builder"
-	"patterns/builder/email_builder_parameters/entity"
+	"patterns/builder/builder_parameters/email_builder"
+	"patterns/builder/builder_parameters/entity"
 )
 
 func sendMailTemplate(email *entity.Email) error { return nil }
