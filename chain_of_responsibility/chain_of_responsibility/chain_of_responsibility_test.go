@@ -1,8 +1,8 @@
 package chain_of_responsibility
 
 import (
-	"patterns/chain_of_responsibility/entity"
-	"patterns/chain_of_responsibility/modifier"
+	"patterns/chain_of_responsibility/chain_of_responsibility/entity"
+	"patterns/chain_of_responsibility/chain_of_responsibility/modifier"
 	"testing"
 
 	"github.com/stretchr/testify/require"

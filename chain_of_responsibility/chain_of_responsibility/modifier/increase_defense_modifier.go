@@ -2,7 +2,7 @@ package modifier
 
 import (
 	"fmt"
-	"patterns/chain_of_responsibility/entity"
+	"patterns/chain_of_responsibility/chain_of_responsibility/entity"
 )
 
 type DefenseModifier struct {

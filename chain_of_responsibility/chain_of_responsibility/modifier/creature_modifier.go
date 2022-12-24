@@ -1,6 +1,6 @@
 package modifier
 
-import "patterns/chain_of_responsibility/entity"
+import "patterns/chain_of_responsibility/chain_of_responsibility/entity"
 
 type CreatureModifier struct {
 	creature *entity.Creature
