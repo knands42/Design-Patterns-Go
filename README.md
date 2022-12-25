@@ -1,6 +1,6 @@
 # Design-Patterns-Go
 
-A place to put all my design patterns example implementations
+A place to put all my design patterns example implementations in Golang
 
 #### Running on the command line
 
