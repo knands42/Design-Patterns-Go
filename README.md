@@ -18,3 +18,10 @@ go test -v <FILE_NAME>.go
 1. Install the golang plugin
 2. Just click on the green arrow next to the test function
 ![image](./assets/snapshot_test.png)
+
+#### Credits
+
+Some of the code snippets are taken from the following sources:
+
+- [Refactoring Guru](https://refactoring.guru)
+- [Desing Patterns in Golang (Udemy)](https://www.udemy.com/course/design-patterns-go/)
